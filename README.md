@@ -2,29 +2,20 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Zadid Ahsan Nabi, A Project Management and Quality Assurance Professional 🚀</div>  
-  
 
 - 🔭 I’m currently working on Japan Travel KK as a Project Development Manager & QA Engineer  
   
-
 - 🌱 I’m currently learning Laravel, Appium and Cucumber  
   
-
 - ❓ Ask me about anything related to Automation Testing and Project Management related technologies  
   
-
 - ⚡ Fun fact: I love to overthink, I live in fantasies  
-  
-
+ 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -52,15 +43,6 @@
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-  
 </div>
 
 </td></tr></table>  
