@@ -18,26 +18,7 @@ Welcome to my GitHub profile! I specialize in ensuring software quality through 
 
 ---
 
-## 📂 **Key Projects**
-### 🧑‍💻 [Selenium-Test-Automation-Suite](https://github.com/Zadid-Ahsan5274/Selenium-Test-Automation-Suite)
-- **Description**: Comprehensive test automation framework for web applications using Selenium.
-- **Features**: Automated functional, regression, and end-to-end test cases.
-- **Tech Stack**: Selenium, Java, TestNG, Maven.
 
-### 🧑‍💻 [API-Testing-with-Postman](https://github.com/Zadid-Ahsan5274/API-Testing-with-Postman)
-- **Description**: RESTful API testing using Postman and Newman.
-- **Features**: Collection-based testing, automated scripts for request validation, and environment variables.
-- **Tech Stack**: Postman, Newman.
-
-### 🧑‍💻 [Performance-Testing-with-JMeter](https://github.com/Zadid-Ahsan5274/Performance-Testing-with-JMeter)
-- **Description**: Load and stress testing scripts for web applications using JMeter.
-- **Features**: Simulated 1000+ concurrent users to identify bottlenecks.
-- **Tech Stack**: JMeter, Java.
-
-### 🧑‍💻 [Bug-Tracking-Simulation](https://github.com/Zadid-Ahsan5274/Bug-Tracking-Simulation)
-- **Description**: A mock workflow demonstrating bug reporting and tracking using JIRA integrated with a sample web app.
-- **Features**: Bug lifecycle tracking, prioritization, and resolution.
-- **Tech Stack**: JIRA, Python.
 
 ---
 
