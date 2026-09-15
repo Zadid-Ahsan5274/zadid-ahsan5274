@@ -1,4 +1,4 @@
-Hi there, I'm [Your Name] 👋
+Hi there, I'm Zadid 👋
 Senior QA Engineer | Quality Advocate | Automation Enthusiast
 <p align="left"> <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=for-the-badge&logo=checkmarx" alt="Experience"> <img src="https://img.shields.io/badge/Focus-Quality%20Assurance-blue?style=for-the-badge&logo=testinglibrary" alt="Focus"> <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"> </p>
 🚀 About Me
