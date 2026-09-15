@@ -29,7 +29,14 @@
 
 Automation & Languages
 
-<img src="https://skillicons.dev/icons?i=selenium,cypress,playwright,java,python,js&perline=6" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,playwright,java,python,js&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
 
 <br/><br/>
 
