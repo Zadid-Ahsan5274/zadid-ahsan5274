@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![Software Quality Specialist](https://img.shields.io/badge/Software_Quality_Specialist-2E9EF7?style=for-the-badge)
+<p align="center">![Software Quality Specialist](https://img.shields.io/badge/Software_Quality_Specialist-2E9EF7?style=for-the-badge)</p>
 
 </p>
 
