@@ -80,18 +80,23 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=zadid-ahsan5274&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadid-ahsan5274&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zadid-ahsan5274&hide_border=true" alt="streak stats"/> </p>
+### 📊 GitHub Activity
+<div align="center"> <img src="https://img.shields.io/github/followers/zadid-ahsan5274?label=Followers&style=for-the-badge&color=2E9EF7&labelColor=1a1a1a" /> <img src="https://img.shields.io/github/stars/zadid-ahsan5274?affiliations=OWNER&label=Stars&style=for-the-badge&color=F7B32B&labelColor=1a1a1a" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=zadid-ahsan5274&hide_border=true&background=FFFFFF00&ring=2E9EF7&fire=F7B32B&currStreakLabel=2E9EF7" alt="GitHub Streak" /> </div> <br/>
 
 ---
 
-### 🚀 Featured Projects
+<!-- ### 🚀 Featured Projects
 
 - **[Project Name](https://github.com/yourusername/repo)** — Automation framework for [describe, e.g. an e-commerce web app] using Selenium + TestNG, integrated with Jenkins CI.
 - **[Project Name](https://github.com/yourusername/repo)** — API test suite built with REST Assured, covering 100+ endpoints with data-driven testing.
 - **[Project Name](https://github.com/yourusername/repo)** — Mobile automation suite using Appium for Android & iOS regression testing.
 
 ---
+-->
 
 ### 📫 Let's Connect
 
