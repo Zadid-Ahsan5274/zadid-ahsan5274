@@ -1,69 +1,113 @@
-# Hi there, I'm a QA Engineer 🚀
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h3 align="center">Senior QA Engineer | 5+ Years Ensuring Software Quality</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=Quality%20Assurance%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Breaking+software+so+users+don't+have+to;Manual+%2B+Automation+Testing+Specialist;Building+robust+QA+processes+since+2019" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <em>Dedicated and detail-oriented QA Engineer with <strong>5+ years of experience</strong> in designing, developing, and executing comprehensive automated and manual test strategies for complex web, mobile, and API applications.</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 Quick Stats
+### 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" width="48%" />
+- 🔍 QA Engineer with **5+ years** of experience testing web, mobile, and API-based applications
+- 🧪 Skilled in both **manual** and **automated** testing across the full SDLC / STLC
+- 🐞 Passionate about catching bugs before they catch users
+- 🤝 Experienced working in **Agile/Scrum** teams alongside developers, PMs, and designers
+- 📈 Focused on building scalable, maintainable test automation frameworks
+- 🌱 Currently exploring: performance testing & CI/CD pipeline integration
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Testing Frameworks & Automation**
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-660198?style=flat-square&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+</p>
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**API Testing & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20Assured-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
+
+**CI/CD & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+**Test & Project Management**
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestRail-33B679?style=flat-square" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Technical Arsenal & Testing Stack
+### 🧭 Core Competencies
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Automation Testing** | Selenium WebDriver, Playwright, Cypress, Appium, TestNG, JUnit |
-| **API & Performance** | Postman, REST Assured, Swagger, JMeter, k6 |
-| **Languages & Scripting** | Python, JavaScript / TypeScript, Java, SQL |
-| **CI/CD & DevOps** | GitHub Actions, Jenkins, GitLab CI, Docker, Kubernetes basics |
-| **Bug Tracking & Management** | Jira, Confluence, Trello, Bugzilla, TestRail |
-| **Methodologies** | Agile, Scrum, Kanban, TDD, BDD (Cucumber / Gherkin) |
-
----
-
-## 💼 Core Competencies & Expertise
-
-- **Test Automation Architecture:** Designing robust, scalable, and maintainable Page Object Model (POM) and keyword-driven automation frameworks from scratch.
-- **API & Microservices Testing:** Validating RESTful and GraphQL endpoints, verifying JSON payloads, status codes, authentication protocols, and database integrity.
-- **CI/CD Integration:** Embedding automated test suites into deployment pipelines to achieve Continuous Testing and accelerate release cycles.
-- **Cross-Browser & Mobile Testing:** Ensuring seamless user experiences across various platforms, browsers, and mobile devices (iOS & Android).
-- **Quality Leadership:** Mentoring junior QA engineers, defining testing standards, conducting code reviews, and collaborating closely with Product and Development teams.
+| Area | Skills |
+|---|---|
+| **Test Design** | Test plans, test cases, traceability matrices, exploratory testing |
+| **Automation** | Framework design (Page Object Model, BDD/Cucumber), CI integration |
+| **API Testing** | Functional, contract, and integration testing of REST/SOAP services |
+| **Performance** | Load & stress testing with JMeter |
+| **Mobile Testing** | iOS & Android, real device + emulator/simulator testing |
+| **Bug Tracking** | Root cause analysis, defect lifecycle management |
 
 ---
 
-## 📈 Recent Highlights & Impact
-
-- 🚀 **Reduced Regression Cycle Time by 65%** by automating over 300+ critical path test cases using Playwright and TypeScript.
-- 🛡️ **Zero Critical Production Escaped Bugs** over a 12-month period across 24 major product releases through rigorous risk-based testing strategies.
-- ⚡ **Optimized API Performance Test Suites** using JMeter, identifying and resolving database bottlenecks that improved server response times by 35%.
-
----
-
-## 📊 GitHub Contribution Graph
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" width="100%" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" alt="streak stats"/>
 </p>
 
 ---
 
+### 🚀 Featured Projects
+
+- **[Project Name](https://github.com/yourusername/repo)** — Automation framework for [describe, e.g. an e-commerce web app] using Selenium + TestNG, integrated with Jenkins CI.
+- **[Project Name](https://github.com/yourusername/repo)** — API test suite built with REST Assured, covering 100+ endpoints with data-driven testing.
+- **[Project Name](https://github.com/yourusername/repo)** — Mobile automation suite using Appium for Android & iOS regression testing.
+
+---
+
+### 📫 Let's Connect
+
 <p align="center">
-  <em>⚡ "Quality is not an act, it is a habit." — Let's build bug-free software together!</em>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Say%20Hello-red?style=flat-square&logo=gmail" /></a>
+</p>
+
+<p align="center">
+  <i>"Quality is not an act, it is a habit."</i>
 </p>
