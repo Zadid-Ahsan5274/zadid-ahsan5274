@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zadid Ahsan
+# <p align="center">👋 Hi, I'm Zadid Ahsan </p>
 
 <p align="center">
 
