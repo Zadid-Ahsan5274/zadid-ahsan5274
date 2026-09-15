@@ -81,15 +81,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zadid-ahsan5274&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadid-ahsan5274&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" alt="streak stats"/>
-</p>
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=zadid-ahsan5274&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zadid-ahsan5274&layout=compact&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zadid-ahsan5274&hide_border=true" alt="streak stats"/> </p>
 
 ---
 
