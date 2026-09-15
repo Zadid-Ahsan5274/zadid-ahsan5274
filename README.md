@@ -25,16 +25,13 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
+<div align="center">
 
-**Testing Frameworks & Automation**
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-660198?style=flat-square&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
-</p>
+Automation & Languages
+
+<img src="https://skillicons.dev/icons?i=selenium,cypress,playwright,appium,pytest,java,python,js" />
+
+<br/><br/>
 
 **Languages**
 <p>
