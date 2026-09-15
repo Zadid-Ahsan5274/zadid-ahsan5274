@@ -1,10 +1,10 @@
 # <p align="center">👋 Hi, I'm Zadid Ahsan </p>
 
-<p align="center">
+<div align="center">
 
 ![Software Quality Specialist](https://img.shields.io/badge/Software_Quality_Specialist-2E9EF7?style=for-the-badge)
 
-</p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Breaking+software+so+users+don't+have+to;Manual+%2B+Automation+Testing+Specialist;Building+robust+QA+processes+since+2019" alt="Typing SVG" />
