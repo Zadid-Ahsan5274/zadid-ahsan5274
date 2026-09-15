@@ -29,7 +29,7 @@
 
 Automation & Languages
 
-<img src="https://skillicons.dev/icons?i=selenium,cypress,playwright,appium,pytest,java,python,js" />
+<img src="https://skillicons.dev/icons?i=selenium,cypress,playwright,java,python,js&perline=6" />
 
 <br/><br/>
 
