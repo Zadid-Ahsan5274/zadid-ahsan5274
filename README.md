@@ -1,7 +1,7 @@
-# <h1 align="center">
+# <div align='center'><h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Zadid+Ahsan;Welcome+to+my+profile" alt="Zadid Ahsan" />
 </h1>
-
+</div>
 <div align="center">
 
 ![Software Quality Specialist](https://img.shields.io/badge/Software_Quality_Specialist-2E9EF7?style=for-the-badge)
