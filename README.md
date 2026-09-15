@@ -29,11 +29,14 @@
 
 Automation & Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,cypress,playwright,java,python,js&perline=6" />
+**Automation & Test Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,java,python,js&perline=5" />
 </p>
 
-<p align="center">
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2E2E2E?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </p>
