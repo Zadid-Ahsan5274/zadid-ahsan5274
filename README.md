@@ -104,8 +104,8 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Say%20Hello-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/ahsanz-51/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:zadid.ahsan5274@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-red?style=flat-square&logo=gmail" /></a>
 </p>
 
 <p align="center">
