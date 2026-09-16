@@ -48,7 +48,7 @@ Automation & Languages
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </p>
 
-<br/><br/>
+<br/>
 
 **Languages**
 <p>
